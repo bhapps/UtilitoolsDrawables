@@ -31,7 +31,7 @@ allprojects {
 
 <pre>
 dependencies {
-   implementation 'com.github.bhapps:UtilitoolsDrawables:0.0.2-alpha'
+   implementation 'com.github.bhapps:UtilitoolsDrawables:0.0.3-alpha'
 }
 </pre>
 
